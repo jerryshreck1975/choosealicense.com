@@ -48,3 +48,5 @@ sass:
 
 twitter:
   username: "@github"
+
+theme: jekyll-theme-cayman
